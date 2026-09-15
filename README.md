@@ -1,1 +1,1 @@
-# Chinook-Music-Store-SQL-Data-Analysis-Project
+Analyzed a multi-country digital music retailer's database using MySQL (joins, CTEs, window functions) to answer 20+ business questions on sales performance, customer segmentation, and churn. Identified key revenue drivers by genre and region, quantified a 37% customer churn rate, and built a customer risk/CLV model. Delivered findings via a formal report and stakeholder presentation with data visualizations and actionable retention/marketing recommendations.
